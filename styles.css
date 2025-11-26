@@ -75,3 +75,15 @@ footer {
     padding: 15px;
     margin-top: 40px;
 }
+#autismo h2 {
+    color: #e85a5a;
+}
+
+.card h3 {
+    color: #4a76e8;
+    margin-top: 0;
+}
+
+.card ul li {
+    margin-bottom: 6px;
+}
